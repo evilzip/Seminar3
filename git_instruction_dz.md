@@ -68,3 +68,5 @@ Git - это консольная утилита, для отслеживани�
     git checkout <has# commit>
 
 ***
+
+    git branch <new_branch_name>
