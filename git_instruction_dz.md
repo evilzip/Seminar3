@@ -72,3 +72,5 @@ Git - это консольная утилита, для отслеживани�
     git branch <new_branch_name>
 
     git branch
+
+    git merge <branch name>
